@@ -1,0 +1,9 @@
+{
+  "TOKEN_TEST_ETUDIANT": {
+    "role": "etudiant",
+    "etudiant": "Amina"
+  },
+  "TOKEN_TEST_ENSEIGNANT": {
+    "role": "enseignant"
+  }
+}
